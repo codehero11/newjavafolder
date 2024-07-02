@@ -1,12 +1,12 @@
 class variables{
     public static void main(String args[])
     {
-        int a = 10;
-        int b = 20;
-        int c = 30;
-        System.out.print(a+b+c);
-        
-
+       int a=10;
+       int b=10;
+       int c=10;
+       int d=a+b+c;
+       System.out.print(d);
+       
 
     }
 }
